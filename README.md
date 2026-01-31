@@ -32,6 +32,9 @@ Welcome to the Django Application Development with SQL and Databases learning pa
    - Integrate Bootstrap for responsive web design in Django.
 10. **Final Project: Online Course Platform**
     - Combine all concepts to build a full-featured online course platform with assessment features and cloud deployment support.
+   - Build a complete online course platform that integrates all previous concepts: models, views, authentication, Bootstrap, and cloud deployment.
+   - Features include course listing, enrollment, user registration/login, assessments/quizzes, admin management, and IBM Cloud Foundry deployment support.
+   - See the 10_diango-project-onlinecourse folder for code, setup instructions, and ER diagram.
 
 ## How to Use This Workspace
 - Each project is self-contained in its own folder (01–10).
@@ -75,6 +78,7 @@ Here are some ideas for a next-level Django project:
     Add badges, leaderboards, and achievements to increase user engagement.
 
     
+
 
 # Contribution Guidelines
 
