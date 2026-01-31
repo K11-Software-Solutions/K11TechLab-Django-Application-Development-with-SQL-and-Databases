@@ -4,7 +4,7 @@
    <img src="https://www.python.org/static/community_logos/python-logo.png" alt="Python Logo" height="60" style="margin-right:20px;vertical-align:middle;"/>
    <img src="https://static.djangoproject.com/img/logos/django-logo-positive.svg" alt="Django Logo" height="60" style="vertical-align:middle;"/>
    <img src="https://playwright.dev/img/playwright-logo.svg" alt="Playwright Logo" height="60" style="margin-right:20px;vertical-align:middle;"/>
-   <img src="https://raw.githubusercontent.com/pytest-dev/pytest/main/doc/en/_static/pytest_logo.svg" alt="pytest Logo" height="60" style="vertical-align:middle;"/>
+   <img src="https://docs.pytest.org/en/latest/_static/pytest.png" alt="pytest Logo" height="60" style="vertical-align:middle;"/>
 </p>
 
 # Django Learning Path: Projects 1–10
