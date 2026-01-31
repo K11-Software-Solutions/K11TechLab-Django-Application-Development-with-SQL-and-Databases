@@ -1,0 +1,55 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.pyc
+
+# Django
+*.sqlite3
+*.log
+*.pot
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual environments
+djangoenv/
+venv/
+ENV/
+
+# VS Code
+.vscode/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Docker
+*.dbdata
+*.pid
+
+# Environment files
+.env
+*.env
+.env.example
+
+# Misc
+*.bak
+*.swp
+*.swo
+
+# Node
+node_modules/
+
+# Coverage
+htmlcov/
+.coverage
+
+# Build
+build/
+dist/
+*.egg-info/
+
+# Others
+*.~*

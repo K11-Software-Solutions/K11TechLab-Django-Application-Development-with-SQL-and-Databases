@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    {% load static %}
+    <link rel="stylesheet" type="text/css" href="{% static 'onlinecourse/course.css' %}">
+</head>
+<body>
+
+<h2>User Registration</h2>
+<form method="post">
+    {% csrf_token %}
+    {{ form.non_field_errors }}
+    {% for field in form %}
+        <div>
+            {{ field.label_tag }} {{ field }}
+            {% for error in field.errors %}
+                <div style="color:red">{{ error }}</div>
+            {% endfor %}
+        </div>
+    {% endfor %}
+    <button type="submit">Register</button>
+</form>
+
+</body>
