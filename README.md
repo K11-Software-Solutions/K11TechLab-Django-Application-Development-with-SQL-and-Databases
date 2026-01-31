@@ -4,17 +4,6 @@
    <img src="https://www.python.org/static/community_logos/python-logo.png" alt="Python Logo" height="60" style="margin-right:20px;vertical-align:middle;"/>
    <img src="https://static.djangoproject.com/img/logos/django-logo-positive.svg" alt="Django Logo" height="60" style="vertical-align:middle;"/>
    <img src="https://playwright.dev/img/playwright-logo.svg" alt="Playwright Logo" height="60" style="margin-right:20px;vertical-align:middle;"/>
-# Contribution Guidelines
-
-We welcome contributions to this Django learning path! To contribute:
-
-1. Fork the repository and create your branch from `master`.
-2. Add your feature, fix, or documentation update.
-3. Ensure your code follows Django and Python best practices.
-4. Run tests (pytest, Playwright, Django test runner) to verify your changes.
-5. Submit a pull request with a clear description of your changes.
-
-For major changes, please open an issue first to discuss your proposal. All contributions should be original and follow the MIT license terms.
 </p>
 
 # Django Learning Path: Projects 1–10
@@ -84,6 +73,20 @@ Here are some ideas for a next-level Django project:
 
 10. **Gamification**  
     Add badges, leaderboards, and achievements to increase user engagement.
+
+    
+
+# Contribution Guidelines
+
+We welcome contributions to this Django learning path! To contribute:
+
+1. Fork the repository and create your branch from `master`.
+2. Add your feature, fix, or documentation update.
+3. Ensure your code follows Django and Python best practices.
+4. Run tests (pytest, Playwright, Django test runner) to verify your changes.
+5. Submit a pull request with a clear description of your changes.
+
+For major changes, please open an issue first to discuss your proposal. All contributions should be original and follow the MIT license terms.
 
 
 
